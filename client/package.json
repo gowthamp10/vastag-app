@@ -22,7 +22,7 @@
     "react-app-rewired": "^2.2.1",
     "react-bootstrap": "^2.3.1",
     "react-dom": "^18.1.0",
-    "react-router-dom": "^6.3.0",
+    "react-router-dom": "^6.30.2",
     "react-scripts": "5.0.1",
     "reactstrap": "^9.0.2",
     "stream-browserify": "^3.0.0",
